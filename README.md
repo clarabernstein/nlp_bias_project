@@ -1,5 +1,6 @@
 # Bias in Natural Language Models
-A project that tackles the identification and mitigation of gender bias in natural language processing, presented at a meetup event and streamed live on youtube. Please find the links below, or altnernatively follow the notebook material:
+A project that tackles the identification and mitigation of gender bias in natural language processing, presented at a meetup event and streamed live on youtube. Please find the links below, or alternatively follow the notebook material:
+* Notebook: nlp_bias_project.ipynb, please ensure you install requirements in requirements.txt to successfully run the notebook
 * Meetup event: https://www.meetup.com/real-data-science-denver/events/291330447
 * Youtube link: https://www.youtube.com/watch?v=FQCR6QYbJqE
 
